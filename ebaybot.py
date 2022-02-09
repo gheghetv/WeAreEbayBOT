@@ -4,8 +4,8 @@ from ebaysdk.exception import ConnectionError
 import telebot
 
 # Configuracion
-EBAY_APP_ID = "<YOUR EBAY APP ID>"
-TELEGRAM_BOT_API_TOKEN = "<YOUR TELEGRAM BOT API TOKEN>"
+EBAY_APP_ID = "EnricoPa-OfferteB-SBX-fac67df45-16836fc3"
+TELEGRAM_BOT_API_TOKEN = "5162394038:AAERAo4339NmWpGHaKivRcKJ2NQO4zcV1M0"
 
 # Inicializacion
 bot = telebot.AsyncTeleBot(TELEGRAM_BOT_API_TOKEN)
